@@ -1,0 +1,6 @@
+venv/
+CSVDATA/*
+PDFS/*
+!CSVDATA/.gitkeep
+!PDFS/.gitkeep
+answers.txt
