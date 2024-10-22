@@ -4,3 +4,4 @@ PDFS/*
 !CSVDATA/.gitkeep
 !PDFS/.gitkeep
 answers.txt
+.DS_Store
